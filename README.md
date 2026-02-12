@@ -81,6 +81,8 @@ npm run preview
 
 ## 🌐 Deployment
 
+**🌍 Live Site:** [https://creative-dusk-32fca6.netlify.app/](https://creative-dusk-32fca6.netlify.app/)
+
 ### Netlify
 
 This project is configured for deployment on Netlify:
